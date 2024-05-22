@@ -1,6 +1,5 @@
-
-var headerText = "C3D2 Bullsh*t-Bingo";
-var footerText = "<a href='https://github.com/c3d2/c3d2-bullshit-bingo/' target='_blank'>Code available on github</a>";
+var headerText = "Bullsh*t-Bingo";
+var footerText = "<a href='https://github.com/AnnaGraphic/bullshit-bingo/' target='_blank'>Code available on github</a>";
 var winText = "Winner";
 var clickSnd = new Audio("audio/click.mp3");
 var winSnd = new Audio("audio/win.mp3");

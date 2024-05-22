@@ -1,4 +1,4 @@
-# C3D2-Bullshit-Bingo
+# Bullshit-Bingo
 
 WHAT IT IS:
 
